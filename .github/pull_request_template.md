@@ -8,12 +8,12 @@ Below is a suggested pull request template. Feel free to add more details you fe
 
 <!-- 
 Please indicate after the # which issue you're closing with this PR, if applicable.
-If the PR closes multiple issues, include "Fix" before each one is listed.
+If the PR closes multiple issues, include "Closes" before each one is listed.
 You can also link to other issues if necessary, e.g. "See also #1234".
 
 https://help.github.com/articles/closing-issues-using-keywords
 -->
-- Fix #
+- Closes #
 
 <!-- 
 Please give a brief overview of what has changed or been added in the PR.
@@ -28,7 +28,7 @@ Changes proposed in this pull request:
 _This section is for the PR reviewer_
 
 - [ ] PR has an interpretable title with a prefix (refer to [NumPy Development Guide](https://numpy.org/doc/stable/dev/development_workflow.html#writing-the-commit-message))
-- [ ] PR links to GitHub issue with mention `Fix #XXXX`
+- [ ] PR links to GitHub issue with mention `Closes #XXXX`
 - [ ] Tests pass
 - [ ] Checks pass
 
