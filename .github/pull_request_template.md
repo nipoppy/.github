@@ -28,6 +28,7 @@ Changes proposed in this pull request:
 _This section is for the PR reviewer_
 
 - [ ] PR has an interpretable title with a prefix (refer to [NumPy Development Guide](https://numpy.org/doc/stable/dev/development_workflow.html#writing-the-commit-message))
+  - Example prefixes: `[BUG]`, `[DOC]`, `[ENH]`, `[MAINT]`
 - [ ] PR links to GitHub issue with mention `Closes #XXXX`
 - [ ] Tests pass
 - [ ] Checks pass
