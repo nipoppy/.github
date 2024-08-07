@@ -24,10 +24,11 @@ Changes proposed in this pull request:
 - 
 
 <!-- To be checked off by reviewers -->
-## Checklist (For reviewers)
+## Checklist (for reviewers)
 _This section is for the PR reviewer_
 
-- [ ] PR has an interpretable title with a prefix (refer to [NumPy Development Guide](https://numpy.org/doc/stable/dev/development_workflow.html#writing-the-commit-message))
+- [ ] PR has an interpretable title with a prefix (e.g. `[BUG]`, `[DOC]`, `[ENH]`, `[MAINT]`)\
+Refer to [NumPy Development Guide](https://numpy.org/doc/stable/dev/development_workflow.html#writing-the-commit-message) for a full list
 - [ ] PR links to GitHub issue with mention `Closes #XXXX`
 - [ ] Tests pass
 - [ ] Checks pass
@@ -36,4 +37,4 @@ For new features:
 - [ ] Tests have been added
 
 For bug fixes:
-- [ ] There is at least one test that would fail under the original bug conditions.
+- [ ] There is at least one test that would fail under the original bug conditions
