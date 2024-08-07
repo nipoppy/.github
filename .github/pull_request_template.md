@@ -37,4 +37,4 @@ For new features:
 - [ ] Tests have been added
 
 For bug fixes:
-- [ ] There is at least one test that would fail under the original bug conditions.
+- [ ] There is at least one test that would fail under the original bug conditions
