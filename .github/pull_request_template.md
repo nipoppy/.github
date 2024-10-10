@@ -20,7 +20,6 @@ Please give a brief overview of what has changed or been added in the PR.
 This can include anything specific the maintainers should be looking for when they review the PR.
 -->
 Changes proposed in this pull request:
-
 - 
 
 <!-- To be checked off by reviewers -->
