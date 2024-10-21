@@ -9,6 +9,8 @@ title: "[BUG] "
 
 labels: ["T.0 - Bug"]
 
+type: "Bug"
+
 body:
   - type: checkboxes
     attributes:

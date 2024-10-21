@@ -9,6 +9,8 @@ title: "[ENH] "
 
 labels: ["T.1 - Enhancement"]
 
+type: "Enhancement"
+
 body:
   - type: checkboxes
     attributes:
